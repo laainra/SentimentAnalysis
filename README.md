@@ -11,3 +11,6 @@ Sentiment analysis is the process of identifying the sentiment expressed in a pi
 # Subjectivity
 
 ![image](https://user-images.githubusercontent.com/111741203/230531326-3f928b45-6871-41a2-a026-d40e0bca6921.png)
+
+# Warning
+You have to use paid Twitter API 
