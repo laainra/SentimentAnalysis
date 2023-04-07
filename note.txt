@@ -1,0 +1,17 @@
+Project: Sentiment Analysis
+Description: Sentiment analysis is the process of identifying the sentiment expressed in a piece of text, such as positive, negative, or neutral. You can build a simple sentiment analysis tool using natural language processing (NLP) techniques and machine learning algorithms.
+Steps:
+1.	Collect a dataset of text samples with labeled sentiments (e.g., positive, negative, neutral). You can use publicly available datasets or create your own.
+2.	Preprocess the text data by removing stop words, converting to lowercase, and stemming/lemmatizing.
+3.	Extract features from the text data using techniques like bag-of-words or TF-IDF.
+4.	Train a machine learning algorithm (e.g., Naive Bayes, SVM, or a neural network) on the labeled dataset.
+5.	Evaluate the performance of your trained model on a held-out test set to measure its accuracy and other metrics.
+6.	Use the trained model to classify the sentiment of new text samples.
+7.	Optionally, build a simple user interface (e.g., a web app or chatbot) to showcase your sentiment analysis tool.
+This project can be a good starting point for learning AI concepts and techniques, including NLP, machine learning, and model evaluation.
+
+
+
+Steps (THAT I Actually DId):
+1. open VS COde, and open terminal with ctrl+`
+2. install library text blob
